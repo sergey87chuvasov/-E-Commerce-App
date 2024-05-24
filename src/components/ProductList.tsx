@@ -7,7 +7,7 @@ const ProductList = () => {
         <Link href="/test" className="w-full flex flex-col gap-4 sm:w-[45%] lg:w-[22%]">
             <div className="relative w-full h-80">
                 <Image className="absolute object-cover rounded-md z-10 hover:opacity-0 transition-opacity easy duration-500 " 
-                    src='https://images.pexels.com/photos/22944580/pexels-photo-22944580.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'  alt='item pic' fill sizes="25vw" />
+                    src='https://images.pexels.com/photos/923278/pexels-photo-923278.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'  alt='item pic' fill sizes="25vw" />
                 <Image className="" src='https://images.pexels.com/photos/22021244/pexels-photo-22021244.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'  alt='item pic' fill sizes="25vw" />
             </div>
             <div className="flex justify-between">
@@ -20,7 +20,7 @@ const ProductList = () => {
         <Link href="/test" className="w-full flex flex-col gap-4 sm:w-[45%] lg:w-[22%]">
             <div className="relative w-full h-80">
                 <Image className="absolute object-cover rounded-md z-10 hover:opacity-0 transition-opacity easy duration-500 " 
-                    src='https://images.pexels.com/photos/22944580/pexels-photo-22944580.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'  alt='item pic' fill sizes="25vw" />
+                    src='https://images.pexels.com/photos/384463/pexels-photo-384463.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load'  alt='item pic' fill sizes="25vw" />
                 <Image className="" src='https://images.pexels.com/photos/22021244/pexels-photo-22021244.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'  alt='item pic' fill sizes="25vw" />
             </div>
             <div className="flex justify-between">
@@ -33,7 +33,7 @@ const ProductList = () => {
         <Link href="/test" className="w-full flex flex-col gap-4 sm:w-[45%] lg:w-[22%]">
             <div className="relative w-full h-80">
                 <Image className="absolute object-cover rounded-md z-10 hover:opacity-0 transition-opacity easy duration-500 " 
-                    src='https://images.pexels.com/photos/22944580/pexels-photo-22944580.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'  alt='item pic' fill sizes="25vw" />
+                    src='https://images.pexels.com/photos/1633689/pexels-photo-1633689.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load'  alt='item pic' fill sizes="25vw" />
                 <Image className="" src='https://images.pexels.com/photos/22021244/pexels-photo-22021244.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'  alt='item pic' fill sizes="25vw" />
             </div>
             <div className="flex justify-between">
@@ -46,7 +46,7 @@ const ProductList = () => {
         <Link href="/test" className="w-full flex flex-col gap-4 sm:w-[45%] lg:w-[22%]">
             <div className="relative w-full h-80">
                 <Image className="absolute object-cover rounded-md z-10 hover:opacity-0 transition-opacity easy duration-500 " 
-                    src='https://images.pexels.com/photos/22944580/pexels-photo-22944580.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'  alt='item pic' fill sizes="25vw" />
+                    src='https://images.pexels.com/photos/2705299/pexels-photo-2705299.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load'  alt='item pic' fill sizes="25vw" />
                 <Image className="" src='https://images.pexels.com/photos/22021244/pexels-photo-22021244.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'  alt='item pic' fill sizes="25vw" />
             </div>
             <div className="flex justify-between">
