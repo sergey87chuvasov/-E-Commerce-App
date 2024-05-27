@@ -1,3 +1,5 @@
+import Add from "@/components/Add"
+import CustomizeProducts from "@/components/CustomizeProducts"
 import ProductImages from "@/components/ProductImages"
 
 const SinglePage = () => {
@@ -8,8 +10,37 @@ const SinglePage = () => {
           <ProductImages />
         </div>
         {/* TEXT */}
-        <div className="w-full lg:w-1/2 flex flex-col gap-6">TEXTSSS</div>
-      </div>
+        <div className="w-full lg:w-1/2 flex flex-col gap-6">
+          <h1 className="text-4xl fomt-medium">Product Name</h1>
+          <p className="text-gray-500">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque aliquam, magni hic quibusdam, 
+            repellat, voluptatibus at cum sed harum iste numquam doloribus 
+            nihil laborum ducimus repudiandae eos voluptas ab expedita.</p>
+            <div className="h-[2px] bg-gray-100" />
+              <div className="flex items-center gap-4">
+                <h3 className="text-xl text-gray-500 line-through">$66</h3>
+                <h2 className="font-medium text-2xl">$51</h2>
+              </div>
+              <div className="h-[2px] bg-gray-100" />
+              <CustomizeProducts />
+              <Add />
+              <div className="h-[2px] bg-gray-100" />
+              <div className="text-sm">
+                <h4 className="font-medium mb-4">Title</h4>
+                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Officia similique ratione, 
+                  dolores autem dignissimos cupiditate.</p>
+              </div>
+              <div className="text-sm">
+                <h4 className="font-medium mb-4">Title</h4>
+                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Officia similique ratione, 
+                  dolores autem dignissimos cupiditate.</p>
+              </div>
+              <div className="text-sm">
+                <h4 className="font-medium mb-4">Title</h4>
+                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Officia similique ratione, 
+                  dolores autem dignissimos cupiditate.</p>
+              </div>
+            </div>
+        </div>
     )
   }
   
